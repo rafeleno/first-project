@@ -1,1 +1,1 @@
-git@github.com:rafeleno/ono-tebe-nado.git
+https://github.com/rafeleno/first-project
