@@ -13,6 +13,7 @@ body {
   width: 1100px;
   margin: 0 auto;
   font-family: Raleway, sans-serif;
+  font-weight: normal;
 }
 
 h1,
@@ -37,6 +38,8 @@ h2 {
 a {
   color: inherit;
   text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 5px;
 }
 
 a.active {
@@ -47,19 +50,10 @@ ul {
     list-style: none;
 }
 
-body {
-    font-weight: normal;
-}
-
 img {
   width: 100%;
 }
 
 address {
     text-decoration: none;
-}
-
-a {
-    text-decoration-thickness: 1px;
-    text-underline-offset: 5px;
 }

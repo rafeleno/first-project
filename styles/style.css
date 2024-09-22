@@ -76,7 +76,7 @@
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 51px;
-    background-image: url(/ono-tebe-nado/images/cover.jpg);
+    background-image: url(/images/cover.jpg);
     background-size: 125%;
     background-position: 51% 1%;
 }
@@ -251,15 +251,15 @@
 }
 
 .lots__list-item-first {
-    background-image: url(/ono-tebe-nado/images/card-lot-01.jpg);
+    background-image: url(/images/card-lot-01.jpg);
 }
 
 .lots__list-item-second {
-    background-image: url(/ono-tebe-nado/images/card-lot-02.jpg);
+    background-image: url(/images/card-lot-02.jpg);
 }
 
 .lots__list-item-third {
-    background-image: url(/ono-tebe-nado/images/card-lot-03.jpg);
+    background-image: url(/images/card-lot-03.jpg);
 }
 
 .lots-link {
